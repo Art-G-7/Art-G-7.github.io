@@ -29,7 +29,7 @@ nav {
 .main{
     width: 100%;
     height: calc(100% - 60px);
-    background: url(../img/Boy.png) 90% 100%/auto 85% no-repeat, url(../img/%D0%A4%D0%BE%D0%BD.jpg) center/cover no-repeat;
+    background: url(../img/ten.png) 90% 870px no-repeat, url(../img/Boy.png) 90% 100%/auto 85% no-repeat, url(../img/%D0%A4%D0%BE%D0%BD.jpg) center/cover no-repeat;
 }
 .title_container{
     float: left;
@@ -60,20 +60,17 @@ nav {
 .heading>h2{
     font-weight: bold;
     font-size:  30px;
-    margin-top: 110px;
+    margin-top: 108px;
     height: 50px;
     text-align: center;
      
    }
-.heading{
-    width: 100%;
-    background:  url(../img/%D0%9F%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D0%B0.jpg) 50% 40px no-repeat, url(../img/Pare.jpg) 50% 70px no-repeat ;
-}
+
 .heading>h6{
     margin-left: 593px;
     max-width: 800px;
     font-size:  16px;
-    margin-top: 250px;
+    margin-top: 20px;
    
 }
 .heading input{
@@ -81,6 +78,7 @@ nav {
     text-align: center;
     margin-top: 38px;
     margin-left: 870px;
+    margin-bottom: 100px;
     border: 2px solid #6f707e;
     border-radius: 5px;
     background: none;
@@ -88,37 +86,128 @@ nav {
     font-size:  13px;
     padding: 5px 5px 5px 30px;
     background:  url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png) 10% 50% no-repeat;
-}
-.heading2>h2{
-     font-weight: bold;
-    font-size:  30px;
-    margin-top: 80px;
-    height: 50px;
-    text-align: center;
-    background:  url(../img/%D0%9F%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D0%B0.jpg) 50% 40px no-repeat;
-    }
-.heading2 {
-    width: 100%;
-    background:  url(../img/%D0%9F%D0%BE%D0%BB%D1%83%D1%84%D0%BE%D0%BD.jpg) center no-repeat;
-}
-.heading2>h3{
-    font-weight: bold;
-    float: left;
-    color: #cf7600;
-    font-size:  19px;
-    text-indent: 477px; 
-    word-spacing: 155px; 
-   
-}
-.heading2>span{
-    float: left;
-    text-align: center;
-    margin-left: 10%;
-    line-height: 20px; 
-   
-}
-.heading2{
-  
-     background:  url(../img/%D0%9D%D0%BE%D1%83%D1%82.png) 505px no-repeat, url(../img/Скобки.png) 750px no-repeat, url(../img/ракета.png) 1083px no-repeat, url(../img/мегафон.png) 1375px no-repeat;
     
+}
+
+.heading img{
+       margin-left: 850px;
+   margin-top: 60px;
+}
+.foto img{
+      margin-left: 915px;
+   margin-top: 15px;
+}
+.title_container1 h2{
+        text-align: center;
+    margin-top: 201px;
+    font-weight: bold;
+    font-size:  30px;
+    margin-top: 1px;
+    padding-top: 100px;
+    height: 10px;
+    text-transform: uppercase;
+}
+.title_container1 {
+  background:  url(../img/%D0%9F%D0%BE%D0%BB%D1%83%D1%84%D0%BE%D0%BD.jpg)  center/cover no-repeat;
+    }
+
+.foto1 img {
+   margin-left: 915px;
+   margin-top: 65px;
+    margin-bottom: 107px;
+}
+.img1 img{
+    
+    margin-left: 495px;
+    padding-right: 239px;
+     float:left;
+}
+
+.img2 img{
+    padding-right: 239px;
+     float:left;
+    }
+.img3 img{
+    padding-right: 239px;
+     float:left;
+    }
+.img4 img{
+    padding-right: 239px;
+     
+    }
+
+.text-1 h3{
+    padding-left: 474px;
+     margin-top: 35px;
+    font-weight: bold;
+    color: #cf7600;
+    font-size: 18.5px;
+    float:left;
+}
+
+.text-2 h3{
+    padding-left: 180px;
+    margin-top: 35px;
+     float:left;
+     color: #cf7600;
+    font-weight: bold;
+    font-size: 18.5px;
+}
+.text-3 h3{
+    padding-left: 150px;
+    margin-top: 35px;
+     float:left;
+     color: #cf7600;
+    font-weight: bold;
+    font-size: 18.5px;
+}
+.text-4 h3{
+    padding-left: 150px;
+    padding-right: 300px;
+    margin-top: 35px;
+     float:left;
+     color: #cf7600;
+    font-weight: bold;
+    font-size: 18.5px;
+}
+.text1-1 h4{
+    float:left;
+    font-size: 16px;
+    margin: 20px 0px 0px 395px;
+    text-align: center;
+    max-width: 300px;
+    padding-bottom: 35px;
+}
+.text1-2 h4{
+    float:left;
+    font-size: 16px;
+  margin: 20px 0px 0px 20px;
+    text-align: center;
+    max-width: 300px;
+}
+.text1-3 h4{
+    float:left;
+    font-size: 16px;
+    margin: 20px 0px 0px 20px;
+    text-align: center;
+    max-width: 300px;
+}
+.text1-4 h4{
+    float:left;
+    font-size: 16px;
+    margin: 20px 0px 0px 20px;
+    text-align: center;
+    max-width: 300px;
+}
+.heading3 h2{
+    float:left;
+    text-align: center;
+    margin-top: 500px;
+    font-weight: bold;
+    color: #384354;
+    font-size:  30px;
+    margin-top: 1px;
+    padding-top: 100px;
+    height: 10px;
+    text-transform: uppercase;
 }
