@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loader{
+    width: 70px;
+    height: 70px;
+    border: 10px solid rgba(125,185,232,0.6);
+    border-radius: 50%;
+    border-left-color: #0D47A1;
+       position: relative;
+       animation: loader 1.3s linear infinite;
+    
+}
+@keyframes loader {
+    100% {
+        transform: rotate(360deg);
+    }
+}

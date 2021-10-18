@@ -1,0 +1,39 @@
+body{
+    padding: 50px;
+    font-family: Arial, sans-serf;
+}
+
+
+.main_block{
+    border: 2px solid red;
+    max-width: 800px;
+    height: 1600px;
+    margin: 0 auto;
+}
+.main_block div{
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    width: 33%;
+}
+.block1{
+    float: left;
+    background-color: #191;
+}
+.block2{
+    background-color: #eda;
+    position: relative;
+    float: left;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+.block3{
+    float: left;
+    background-color: #456;
+    position: relative;
+     z-index: 5;
+
+}
