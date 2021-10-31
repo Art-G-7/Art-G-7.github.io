@@ -345,20 +345,27 @@ nav {
     margin-top: 20px;
     
 }
+.heading4{
+    
+    box-shadow: 2px 2px 10px #1E90FF;
+    margin: 30px 450px;
+}
+
 .heading4 h2{
     color: #1c2534;
     font-size:  46px;
     text-align: center;
      margin-top: 200px;
+    padding: 10px;
 }
 .typesite h3{
     margin-top: 52px;
-    margin-left: 497px;
+    margin-left: 50px;
     font-size:  30px;
 }
 .listoption select{
     margin-top: 25px;
-    margin-left: 497px;
+    margin-left: 50px;
     border: 10px solid #eee;
     background: #eee;
     padding: 20px 705px 17px 20px;
@@ -366,12 +373,12 @@ nav {
 }
 .typedesign h3{
      margin-top: 52px;
-    margin-left: 497px;
+    margin-left: 50px;
     font-size:  30px;
 }
 .listdesign select{
      margin-top: 25px;
-    margin-left: 497px;
+    margin-left: 50px;
     border: 10px solid #eee;
     background: #eee;
     padding: 20px 721px 17px 20px;
@@ -379,12 +386,12 @@ nav {
 }
 .typeadaptation h3{
     margin-top: 52px;
-    margin-left: 497px;
+    margin-left: 50px;
     font-size:  30px;
 }
 .listadaptation select{
     margin-top: 25px;
-    margin-left: 497px;
+    margin-left: 50px;
     border: 10px solid #eee;
     background: #eee;
     padding: 20px 770px 17px 20px;
@@ -392,17 +399,17 @@ nav {
 }
 .heading4 img{
     margin-top: 40px;
-    margin-left: 497px;
+    margin-left: 50px;
 
 }
 .line h3{
-    margin-left: 497px;
+    margin-left: 50px;
     margin-top: 23px;
     font-size:  21px;
     font-weight: bold;
 }
 .price h3{
-    margin-left: 497px;
+    margin-left: 50px;
     margin-top: 23px;
     padding-bottom: 155px;
     font-size:  21px;
@@ -562,13 +569,17 @@ margin-top: 45px;
 margin-left: 218px;
 }
 .textgeo h4{
+    position: absolute;
     margin-top: 15px;
+    margin-left: 620px;
     float:left;
     color: #fff;
      font-size:  17px;
 text-align: center;
 }
 .mail h4{
+    position: absolute;
+    margin-left: 850px;
     margin-top: 15px;
     float:left;
      color: #fff;
@@ -576,6 +587,8 @@ text-align: center;
      padding-right: 100px;
 }
 .tell h4{
+    position: absolute;
+    margin-left: 1120px;
     margin-top: 15px;
      color: #fff;
      font-size:  17px;
@@ -597,7 +610,7 @@ text-align: center;
     margin-top: 45px;
     margin-left: 30px; 
     background: #d2d6dc;
-    padding: 10px 203px 10px 10px;
+    padding: 10px 157px 10px 10px;
 }
 .heading7 textarea{
 margin-left: 600px;
@@ -642,14 +655,11 @@ margin-top: 75px;
 margin-left: 55px;
 }
 .network6 a{
+    position: absolute;
     margin-top: 75px;
 margin-left: 55px;
 }
-.maps {
-   padding: 350px ;
-   border: 1px solid #000;
 
-}
 .strip {
     width: 100%;
     height: 95px;
